@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern mirror
+* source:	https://sketchfab.com/3d-models/modern-mirror-4327de211c5f4c82b65726a3df787578
+* author:	sam_petux (https://sketchfab.com/sam_petux)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern mirror" (https://sketchfab.com/3d-models/modern-mirror-4327de211c5f4c82b65726a3df787578) by sam_petux (https://sketchfab.com/sam_petux) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

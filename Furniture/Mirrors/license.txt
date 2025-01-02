@@ -1,0 +1,8 @@
+Model Information:
+* title:	Ornate Mirror
+* source:	https://sketchfab.com/3d-models/ornate-mirror-68a8a9f27f6f4fb3b9d568bbb5db1086
+* author:	Arnold Konrad (https://sketchfab.com/akonrad)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
