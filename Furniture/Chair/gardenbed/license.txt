@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gardenbed
+* source:	https://sketchfab.com/3d-models/gardenbed-172d102b63b44a1796c7172bf84c0b41
+* author:	Truong Arch (https://sketchfab.com/kiemtruongkts)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gardenbed" (https://sketchfab.com/3d-models/gardenbed-172d102b63b44a1796c7172bf84c0b41) by Truong Arch (https://sketchfab.com/kiemtruongkts) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
