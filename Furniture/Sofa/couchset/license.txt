@@ -1,0 +1,11 @@
+Model Information:
+* title:	Couch/Sofa Set
+* source:	https://sketchfab.com/3d-models/couchsofa-set-f3622d9edcc94f1aa4b0bd95f1d5cda2
+* author:	Blaž Mraz (https://sketchfab.com/Mraz3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Couch/Sofa Set" (https://sketchfab.com/3d-models/couchsofa-set-f3622d9edcc94f1aa4b0bd95f1d5cda2) by Blaž Mraz (https://sketchfab.com/Mraz3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
