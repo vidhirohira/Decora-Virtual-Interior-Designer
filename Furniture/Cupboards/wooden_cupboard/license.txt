@@ -1,0 +1,11 @@
+Model Information:
+* title:	wooden cupboard
+* source:	https://sketchfab.com/3d-models/wooden-cupboard-6357f1f4e6934bbda8fe8a4b5e26d9c8
+* author:	Ricardo Sanchez (https://sketchfab.com/380660711785)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "wooden cupboard" (https://sketchfab.com/3d-models/wooden-cupboard-6357f1f4e6934bbda8fe8a4b5e26d9c8) by Ricardo Sanchez (https://sketchfab.com/380660711785) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
