@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa_LowPoly
+* source:	https://sketchfab.com/3d-models/sofa-lowpoly-364c6721c1c04f39ae6b2ac2bd442425
+* author:	LEE2021 (https://sketchfab.com/ll2018lly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa_LowPoly" (https://sketchfab.com/3d-models/sofa-lowpoly-364c6721c1c04f39ae6b2ac2bd442425) by LEE2021 (https://sketchfab.com/ll2018lly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
