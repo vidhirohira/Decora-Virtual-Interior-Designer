@@ -1,0 +1,1121 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.4261702597141266,
+        0.4502590000629425,
+        0.2885008454322815
+      ],
+      "min": [
+        -0.4346713125705719,
+        -0.4502424895763397,
+        -0.5408264398574829
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999964237213135,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999964237213135,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        0.999927282333374,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        6.102525234222412,
+        2.084792375564575
+      ],
+      "min": [
+        -5.092776775360107,
+        -1.0847922563552856
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 332319,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 4092,
+      "max": [
+        0.30903297662734985,
+        0.44451916217803955,
+        0.28788697719573975
+      ],
+      "min": [
+        -0.43403860926628113,
+        -0.4494937062263489,
+        -0.5398462414741516
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1621872,
+      "componentType": 5126,
+      "count": 4092,
+      "max": [
+        0.9999923706054688,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999792575836182,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 4092,
+      "max": [
+        1.0,
+        1.0,
+        0.999927282333374,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999991655349731,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 4092,
+      "max": [
+        1.2993780374526978,
+        1.2518118619918823
+      ],
+      "min": [
+        -0.005689597222954035,
+        -0.47712740302085876
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1329276,
+      "componentType": 5125,
+      "count": 20193,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1670976,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.3108766973018646,
+        0.3944343030452728,
+        0.08607656508684158
+      ],
+      "min": [
+        -0.30658257007598877,
+        -0.39449968934059143,
+        -0.08214155584573746
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2457360,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999891519546509,
+        0.8910284042358398,
+        1.0
+      ],
+      "min": [
+        -0.7989879250526428,
+        -0.9199392795562744,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1113984,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        0.8254541158676147,
+        1.0
+      ],
+      "min": [
+        -0.8910762667655945,
+        -0.11283684521913528,
+        -0.784660816192627,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 556992,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9934107065200806,
+        0.9910155534744263
+      ],
+      "min": [
+        0.006507664918899536,
+        0.010614246129989624
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1410048,
+      "componentType": 5125,
+      "count": 383229,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3243744,
+      "componentType": 5126,
+      "count": 36253,
+      "max": [
+        0.3106875717639923,
+        0.39933881163597107,
+        0.0857425108551979
+      ],
+      "min": [
+        -0.31179988384246826,
+        -0.4000649154186249,
+        -0.08195451647043228
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3678780,
+      "componentType": 5126,
+      "count": 36253,
+      "max": [
+        0.9995719194412231,
+        0.9999916553497314,
+        0.9998726844787598
+      ],
+      "min": [
+        -0.9999996423721313,
+        -0.9999785423278809,
+        -0.9999998807907104
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2162496,
+      "componentType": 5126,
+      "count": 36253,
+      "max": [
+        1.0,
+        1.0,
+        0.8278940916061401,
+        1.0
+      ],
+      "min": [
+        -0.9714187979698181,
+        -0.8397577404975891,
+        -0.8322793245315552,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1081248,
+      "componentType": 5126,
+      "count": 36253,
+      "max": [
+        0.9962327480316162,
+        0.9915672540664673
+      ],
+      "min": [
+        0.0037578046321868896,
+        0.00840941071510315
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2942964,
+      "componentType": 5125,
+      "count": 204165,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4113816,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.1322018951177597,
+        0.3946188688278198,
+        0.303640753030777
+      ],
+      "min": [
+        -0.13025476038455963,
+        -0.400071918964386,
+        -0.307727187871933
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4900200,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999985694885254,
+        0.9956693649291992,
+        0.9999818801879883
+      ],
+      "min": [
+        -0.9999973773956299,
+        -0.9999786615371704,
+        -0.999931812286377
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2742544,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        0.7950693368911743,
+        1.0
+      ],
+      "min": [
+        -0.9002733826637268,
+        -0.7461028695106506,
+        -0.8059218525886536,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1371272,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.990993857383728,
+        0.9933959245681763
+      ],
+      "min": [
+        0.009007006883621216,
+        0.0065351128578186035
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3759624,
+      "componentType": 5125,
+      "count": 380709,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5686584,
+      "componentType": 5126,
+      "count": 36930,
+      "max": [
+        0.12826071679592133,
+        0.3993317782878876,
+        0.3055133819580078
+      ],
+      "min": [
+        -0.12969566881656647,
+        -0.3997635543346405,
+        -0.3071081340312958
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6129744,
+      "componentType": 5126,
+      "count": 36930,
+      "max": [
+        0.9999785423278809,
+        0.9999904632568359,
+        0.9998242855072021
+      ],
+      "min": [
+        -0.9997357130050659,
+        -0.9999611377716064,
+        -0.999963641166687
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 3791056,
+      "componentType": 5126,
+      "count": 36930,
+      "max": [
+        1.0,
+        1.0,
+        0.8207114338874817,
+        1.0
+      ],
+      "min": [
+        -0.7361772060394287,
+        -0.828840434551239,
+        -0.8053153157234192,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1895528,
+      "componentType": 5126,
+      "count": 36930,
+      "max": [
+        0.9825169444084167,
+        0.9973723292350769
+      ],
+      "min": [
+        0.010580301284790039,
+        0.0024968087673187256
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 5282460,
+      "componentType": 5125,
+      "count": 205941,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6572904,
+      "componentType": 5126,
+      "count": 2761,
+      "max": [
+        2.7889211177825928,
+        4.244105815887451,
+        3.9292778968811035
+      ],
+      "min": [
+        -3.663388729095459,
+        -4.244106292724609,
+        -1.839219570159912
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6606036,
+      "componentType": 5126,
+      "count": 2761,
+      "max": [
+        0.991428554058075,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2190968,
+      "componentType": 5126,
+      "count": 2761,
+      "max": [
+        1.1182072162628174,
+        1.1137441396713257
+      ],
+      "min": [
+        0.22932910919189453,
+        0.11374402046203613
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6106224,
+      "componentType": 5125,
+      "count": 11232,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6639168,
+      "componentType": 5126,
+      "count": 4378,
+      "max": [
+        1.1326138973236084,
+        1.0000011920928955,
+        0.07441063225269318
+      ],
+      "min": [
+        -1.1326138973236084,
+        -0.9999990463256836,
+        -0.1754145324230194
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6691704,
+      "componentType": 5126,
+      "count": 4378,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 4381936,
+      "componentType": 5126,
+      "count": 4378,
+      "max": [
+        1.0,
+        1.0,
+        0.908527672290802,
+        1.0
+      ],
+      "min": [
+        -0.8985783457756042,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2213056,
+      "componentType": 5126,
+      "count": 4378,
+      "max": [
+        0.999390184879303,
+        0.9030966758728027
+      ],
+      "min": [
+        0.0006098151206970215,
+        0.42323389649391174
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6151152,
+      "componentType": 5125,
+      "count": 22080,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Quantum3D (https://sketchfab.com/Quantum3D)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/mahogany-wood-armchair-5852500a4195483ea213d0e41df34579",
+      "title": "Mahogany Wood Armchair"
+    },
+    "generator": "Sketchfab-12.64.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 6239472,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2248080,
+      "byteOffset": 6239472,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6744240,
+      "byteOffset": 8487552,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4451984,
+      "byteOffset": 15231792,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 19683776,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/WoodMahoganyAfricanSealed001_3K.001_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/WoodMahoganyAfricanSealed001_3K.001_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/WoodMahoganyAfricanSealed001_3K.001_normal.png"
+    },
+    {
+      "uri": "textures/FabricUpholsteryCanvasPlainWeave001_3K_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/FabricUpholsteryCanvasPlainWeave001_3K_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/FabricUpholsteryCanvasPlainWeave001_3K_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "WoodMahoganyAfricanSealed001_3K.001",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "FabricUpholsteryCanvasPlainWeave001_3K",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "FabricUpholsteryCanvasPlainWeave001_3K.001",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "WoodMahoganyAfricanSealed001_3K.002",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "WoodMahoganyAfricanSealed001_3K.003",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Armrest_WoodMahoganyAfricanSealed001_3K.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Armrest_WoodMahoganyAfricanSealed001_3K.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Seat Cushion_FabricUpholsteryCanvasPlainWeave001_3K_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Seat Cushion_FabricUpholsteryCanvasPlainWeave001_3K_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "BackRest_FabricUpholsteryCanvasPlainWeave001_3K.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "BackRest_FabricUpholsteryCanvasPlainWeave001_3K.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 26,
+            "POSITION": 25,
+            "TANGENT": 27,
+            "TEXCOORD_0": 28
+          },
+          "indices": 29,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Support_WoodMahoganyAfricanSealed001_3K.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 31,
+            "POSITION": 30,
+            "TEXCOORD_0": 32
+          },
+          "indices": 33,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bottom Plate_WoodMahoganyAfricanSealed001_3K.003_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 35,
+            "POSITION": 34,
+            "TANGENT": 36,
+            "TEXCOORD_0": 37
+          },
+          "indices": 38,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "5ec8ad670a3843889235ca5fcfb298f7.fbx"
+    },
+    {
+      "children": [
+        3,
+        6,
+        9,
+        12,
+        14
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        -0.1652718037366867,
+        54.11322021484375,
+        0.0008310351404361427,
+        1.0
+      ],
+      "name": "Armrest"
+    },
+    {
+      "mesh": 0,
+      "name": "Armrest_WoodMahoganyAfricanSealed001_3K.001_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Armrest_WoodMahoganyAfricanSealed001_3K.001_0"
+    },
+    {
+      "children": [
+        7,
+        8
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        -12.87442398071289,
+        39.58553695678711,
+        -0.0008580459398217499,
+        1.0
+      ],
+      "name": "Seat Cushion"
+    },
+    {
+      "mesh": 2,
+      "name": "Seat Cushion_FabricUpholsteryCanvasPlainWeave001_3K_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Seat Cushion_FabricUpholsteryCanvasPlainWeave001_3K_0"
+    },
+    {
+      "children": [
+        10,
+        11
+      ],
+      "matrix": [
+        99.99996916844368,
+        -0.07852585761308307,
+        -1.2347708966409243e-08,
+        0.0,
+        -2.514119123390307e-08,
+        -1.6292053217625835e-05,
+        -99.99999999999868,
+        0.0,
+        0.07852585761308004,
+        99.99996916844235,
+        -1.629206793918314e-05,
+        0.0,
+        20.653623580932617,
+        74.457763671875,
+        -0.0015543942572548985,
+        1.0
+      ],
+      "name": "BackRest"
+    },
+    {
+      "mesh": 4,
+      "name": "BackRest_FabricUpholsteryCanvasPlainWeave001_3K.001_0"
+    },
+    {
+      "mesh": 5,
+      "name": "BackRest_FabricUpholsteryCanvasPlainWeave001_3K.001_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        9.529610633850098,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.552570638806479e-06,
+        -9.529610633849972,
+        0.0,
+        0.0,
+        9.529610633849972,
+        -1.552570638806479e-06,
+        0.0,
+        3.50532865524292,
+        55.92210388183594,
+        -9.313225746154785e-07,
+        1.0
+      ],
+      "name": "Support"
+    },
+    {
+      "mesh": 6,
+      "name": "Support_WoodMahoganyAfricanSealed001_3K.002_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "matrix": [
+        15.636184692382813,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -5.138558152733192e-06,
+        -31.540245056151928,
+        0.0,
+        0.0,
+        15.28837203979472,
+        -2.490791959518468e-06,
+        0.0,
+        -7.543905258178711,
+        30.549747467041016,
+        -0.3576430082321167,
+        1.0
+      ],
+      "name": "Bottom Plate"
+    },
+    {
+      "mesh": 7,
+      "name": "Bottom Plate_WoodMahoganyAfricanSealed001_3K.003_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}

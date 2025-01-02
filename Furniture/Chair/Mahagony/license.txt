@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mahogany Wood Armchair
+* source:	https://sketchfab.com/3d-models/mahogany-wood-armchair-5852500a4195483ea213d0e41df34579
+* author:	Quantum3D (https://sketchfab.com/Quantum3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mahogany Wood Armchair" (https://sketchfab.com/3d-models/mahogany-wood-armchair-5852500a4195483ea213d0e41df34579) by Quantum3D (https://sketchfab.com/Quantum3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
