@@ -1,0 +1,11 @@
+Model Information:
+* title:	Door
+* source:	https://sketchfab.com/3d-models/door-adf292f437f24151918a3b16ecef52d2
+* author:	hoschu (https://sketchfab.com/hoschu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Door" (https://sketchfab.com/3d-models/door-adf292f437f24151918a3b16ecef52d2) by hoschu (https://sketchfab.com/hoschu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
