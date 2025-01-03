@@ -1,0 +1,11 @@
+Model Information:
+* title:	Velvet Bean Bag
+* source:	https://sketchfab.com/3d-models/velvet-bean-bag-bee48f52ffe5407fab1f0f8b206f4424
+* author:	Blerim Arifi (https://sketchfab.com/Blerim_Arifi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Velvet Bean Bag" (https://sketchfab.com/3d-models/velvet-bean-bag-bee48f52ffe5407fab1f0f8b206f4424) by Blerim Arifi (https://sketchfab.com/Blerim_Arifi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bean Bag
+* source:	https://sketchfab.com/3d-models/bean-bag-1bdb47b8ab85474b8506ebfa1580e793
+* author:	Blender-Expert (https://sketchfab.com/Blender-Expert)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bean Bag" (https://sketchfab.com/3d-models/bean-bag-1bdb47b8ab85474b8506ebfa1580e793) by Blender-Expert (https://sketchfab.com/Blender-Expert) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
