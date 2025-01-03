@@ -1,0 +1,11 @@
+Model Information:
+* title:	Curtains
+* source:	https://sketchfab.com/3d-models/curtains-a5e74b6c27ec46a889c62ef1c968233f
+* author:	TCF (https://sketchfab.com/BigBeans1048)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Curtains" (https://sketchfab.com/3d-models/curtains-a5e74b6c27ec46a889c62ef1c968233f) by TCF (https://sketchfab.com/BigBeans1048) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animated Curtains Low Poly
+* source:	https://sketchfab.com/3d-models/animated-curtains-low-poly-e0342c7268d949d696ffd8ed5e8ab2b9
+* author:	JeffK (https://sketchfab.com/jeffkolada)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animated Curtains Low Poly" (https://sketchfab.com/3d-models/animated-curtains-low-poly-e0342c7268d949d696ffd8ed5e8ab2b9) by JeffK (https://sketchfab.com/jeffkolada) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
