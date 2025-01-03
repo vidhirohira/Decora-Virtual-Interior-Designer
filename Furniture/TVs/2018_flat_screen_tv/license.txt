@@ -1,0 +1,11 @@
+Model Information:
+* title:	2018 Flat screen TV
+* source:	https://sketchfab.com/3d-models/2018-flat-screen-tv-d885976821324ceb8fa4f1fa569b0295
+* author:	Warkarma (https://sketchfab.com/warkarma)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2018 Flat screen TV" (https://sketchfab.com/3d-models/2018-flat-screen-tv-d885976821324ceb8fa4f1fa569b0295) by Warkarma (https://sketchfab.com/warkarma) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
