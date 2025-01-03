@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dining Table Set
+* source:	https://sketchfab.com/3d-models/dining-table-set-5847113c458f4a2483aedd663376c7de
+* author:	Jainesh Pathak (https://sketchfab.com/spectraut2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dining Table Set" (https://sketchfab.com/3d-models/dining-table-set-5847113c458f4a2483aedd663376c7de) by Jainesh Pathak (https://sketchfab.com/spectraut2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
