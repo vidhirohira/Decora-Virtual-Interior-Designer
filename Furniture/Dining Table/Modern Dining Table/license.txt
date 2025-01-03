@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern dining table
+* source:	https://sketchfab.com/3d-models/modern-dining-table-3c4acb271fdd44c785d68c55351d6ffe
+* author:	DailyArt (https://sketchfab.com/D.art)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern dining table" (https://sketchfab.com/3d-models/modern-dining-table-3c4acb271fdd44c785d68c55351d6ffe) by DailyArt (https://sketchfab.com/D.art) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
