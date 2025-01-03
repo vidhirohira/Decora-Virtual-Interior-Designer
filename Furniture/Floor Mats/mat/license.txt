@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mat
+* source:	https://sketchfab.com/3d-models/mat-c3d62eaeac8f46da9f4441145194e981
+* author:	National Heritage Administration (https://sketchfab.com/NHA_Asset)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mat" (https://sketchfab.com/3d-models/mat-c3d62eaeac8f46da9f4441145194e981) by National Heritage Administration (https://sketchfab.com/NHA_Asset) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
