@@ -1,0 +1,14 @@
+.nav-button {
+    background: none; /* Remove default button styling */
+    border: none;
+    color: #8B4513;
+    font-size: 1rem;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-family: inherit; /* Matches the font with nav-links */
+}
+
+.nav-button:hover {
+    color: white; /* Same hover color as links */
+}

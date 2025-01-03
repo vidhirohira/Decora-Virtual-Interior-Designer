@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5dc; /* Light beige to complement #CD853F */
+    color: #333; /* Dark text for readability */
+  }
+  
+  h1 {
+    text-align: center;
+    color: #CD853F;
+  }
+  
+  button {
+    background-color: #CD853F;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #b37730; /* Slightly darker shade */
+  }
+  
+  button:active {
+    background-color: #8f5e25; /* Even darker shade */
+  }
+  
+  select {
+    background-color: #CD853F;
+    border: none;
+    color: white;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    margin-left: 10px;
+  }
+  
+  select option {
+    color: black;
+    background-color: white;
+  }
+  
+  .stage-container {
+    margin: 20px auto;
+    border: 2px solid #CD853F;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+  }
+  
+  .grid-line {
+    stroke: white !important; /* White grid */
+    stroke-width: 1;
+  }
+  
+  .wall-line {
+    stroke: #CD853F;
+    stroke-width: 3;
+    cursor: pointer;
+  }
+  
+  .dimension-text {
+    fill: #CD853F;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  
+  .clear-layout {
+    background-color: #8b4513; /* SaddleBrown for clear button */
+    color: white;
+  }
+  
+  .clear-layout:hover {
+    background-color: #6b3410; /* Darker shade */
+  }
+  

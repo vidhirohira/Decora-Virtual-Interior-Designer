@@ -1,0 +1,48 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+    
+}
+
+.nav-links {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    margin-right: 2rem;
+    
+}
+
+.nav-links a {
+    color: #8B4513;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #CD853F;
+}
+
+.hero-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0.5rem; /* Adjusted for less padding */
+    min-height: auto; /* Removed unnecessary min-height */
+}
+
+
+
+
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #8B4513;
+    font-family: 'Playfair Display', serif;
+
+    margin-left: 4rem;
+
+}
