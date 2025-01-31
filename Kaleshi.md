@@ -1,9 +1,9 @@
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2024">
-    <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
+    <img src="./COC.png" alt="CoC Inheritance 2024" width="500" height="166">
   </a>
   <br>
- Virtual Interior Designer
+ <img src="./LOGO.png" alt="Virtual Interior Designer" width="500" height="166">
 </h1>
 
 <div align="center">
@@ -43,9 +43,6 @@
 
 
 ## 🤖Tech-Stack
-
-Mention all languages/libraries/frameworks used in your project **domain-wise**   
-You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
 #### Front-end
 - HTML
@@ -115,14 +112,14 @@ Add names of your team members with their emails and links to their GitHub accou
 - [Vidhi Rohira ](https://github.com/vidhirohira)
 - [Dhruv Panchal ](https://github.com/Dhruvp18)
 - [Viraj Vora ](https://github.com/viraj200524)
-- [Team Member 2 ](https://github.com/chaitra-samant)
+- [Chaitra Samant ](https://github.com/chaitra-samant)
 
 ## 👨‍🏫Mentors
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Adi Awaskar ](https://github.com/adiawaskar):
-- [Aarya Bodas ]():
+- [Adi Awaskar ](https://github.com/adiawaskar)
+- [Aarya Bodas ]()
 
 ## 📱Screenshots
 
