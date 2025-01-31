@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2024">
     <img src="./COC.png" alt="CoC Inheritance 2024" width="30" height="30">
+    <h3> CoC Inheritance 2024 </h3> 
   </a>
   <br>
  Virtual Interior Designer
