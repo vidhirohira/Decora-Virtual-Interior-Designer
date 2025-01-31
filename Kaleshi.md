@@ -1,16 +1,12 @@
 <h1 align="center">
-  <a href="https://github.com/CommunityOfCoders/Inheritance-2024">
-    <img src="./COC.png" alt="CoC Inheritance 2024" width="30" height="30">
-    <h3> CoC Inheritance 2024 </h3> 
+  <a href="https://github.com/CommunityOfCoders/Inheritance-2024" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="./COC.png" alt="CoC Inheritance 2024" width="30" height="30" style="vertical-align: middle;">
+    <span style="margin-left: 10px; font-size: 24px; font-weight: bold;">CoC Inheritance 2024</span>
   </a>
   <br>
- Virtual Interior Designer
+  Virtual Interior Designer
 </h1>
 
-<div align="center">
-   Virtual Interior Designer
-</div>
-<hr>
 
 <details>
 <summary>Table of Contents</summary>
