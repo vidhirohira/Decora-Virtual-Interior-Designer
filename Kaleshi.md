@@ -29,6 +29,7 @@
 </details>
 
 ## 📝Description
+- The Virtual Interior Designer is an innovative and user-friendly platform designed to help users visualize and plan their dream interiors effortlessly. With a personal profile-based account system, users can save and manage their projects conveniently.
 
 
 
@@ -120,8 +121,8 @@ Add names of your team members with their emails and links to their GitHub accou
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Mentor 1 ]()):
-- [Mentor 2 ]():
+- [Adi Awaskar ](https://github.com/adiawaskar):
+- [Aarya Bodas ]():
 
 ## 📱Screenshots
 
