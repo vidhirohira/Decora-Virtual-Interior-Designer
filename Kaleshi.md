@@ -103,7 +103,7 @@ git clone <https://github.com/vidhirohira/Virtual_Interior_Designer>
 
 ## 👨‍🏫Mentors
 - [Adi Awaskar ](https://github.com/adiawaskar)
-- [Aarya Bodas ]()
+- [Aarya Bodas ](https://github.com/aarya-16)
 
 ## 📱Screenshots
 
