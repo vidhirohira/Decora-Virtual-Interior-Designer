@@ -1,11 +1,9 @@
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2024">
-    <img src="./COC.png" alt="CoC Inheritance 2024" width="60" height="60">
-    <h3> <b> CoC Inheritance 2024 </b> </h3>
+    <img src="./COC.png" alt="CoC Inheritance 2024" width="30" height="30">
   </a>
   <br>
- <img src="./LOGO.png" alt="Virtual Interior Designer" width="30" height="30">
-  <b> Virtual Interior Designer </b> 
+ Virtual Interior Designer
 </h1>
 
 <div align="center">
@@ -53,28 +51,21 @@
 - React
 - Python
 
-#### Back-end
-- NodeJS
-- ExpressJS
-
-#### Database
-- MongoD
-
 #### Machine Learning
 - ML
 
 ## 📈Progress
-- 🔹 2D to 3D Floor Plan Conversion
+-  2D to 3D Floor Plan Conversion
   Create your custom 2D floor plan, and the platform will seamlessly convert it into a 3D model, offering a realistic view of your space.
-- 🔹 Personalized Interior Design
+-  Personalized Interior Design
   Enjoy complete freedom to choose and place furniture and decor items as per your preferences.
   Customize layouts to match your vision and style.
-- 🔹 Online Furniture Suggestions
+-  Online Furniture Suggestions
   Get access to a variety of furniture options scraped from online sources.
   Compare styles, prices, and features before making a choice.
-- 🔹 House Detail Form Filling
+-  House Detail Form Filling
   Input essential house details through a guided form to receive tailored design suggestions.
-- 🔹 Budget Estimation
+-  Budget Estimation
    Get an estimated budget for your house renovation or interior design based on your selected products and preferences.
 
 
