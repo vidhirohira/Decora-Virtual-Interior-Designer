@@ -4,7 +4,7 @@
     <span style="margin-left: 10px; font-size: 24px; font-weight: bold;">CoC Inheritance 2024</span>
   </a>
   <br>
-  Virtual Interior Designer
+  Decora: Virtual Interior Designer
 </h1>
 
 
@@ -33,9 +33,8 @@
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/vidhirohira/Virtual_Interior_Designer)
-- [Demo Video]()
-- [Drive Link to Screenshots of your project]()
-
+- [Demo Video of Decora](https://drive.google.com/drive/folders/1-6YKqTX5RRUrAFTY-_hjR4_FCZ93Mawg?usp=drive_link)
+- [Screenshots of Decora](https://drive.google.com/drive/folders/1-7m2Abz8JKoboT-Y_hvocWGRv1XRkkHf)
 
 
 
@@ -105,9 +104,6 @@ git clone <https://github.com/vidhirohira/Virtual_Interior_Designer>
 - [Adi Awaskar ](https://github.com/adiawaskar)
 - [Aarya Bodas ](https://github.com/aarya-16)
 
-## 📱Screenshots
 
-
-![Screenshot alt text]( "screenshot")
 
 
