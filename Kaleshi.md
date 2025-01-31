@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2024">
     <img src="./COC.png" alt="CoC Inheritance 2024" width="60" height="60">
-    <h1> <b> CoC Inheritance 2024 </b> </h1>
+    <h3> <b> CoC Inheritance 2024 </b> </h3>
   </a>
   <br>
  <img src="./LOGO.png" alt="Virtual Interior Designer" width="30" height="30">
@@ -108,18 +108,12 @@ git clone <https://github.com/vidhirohira/Virtual_Interior_Designer>
 
 
 ## 👨‍💻Team Members
-
-Add names of your team members with their emails and links to their GitHub accounts
-
 - [Vidhi Rohira ](https://github.com/vidhirohira)
 - [Dhruv Panchal ](https://github.com/Dhruvp18)
 - [Viraj Vora ](https://github.com/viraj200524)
 - [Chaitra Samant ](https://github.com/chaitra-samant)
 
 ## 👨‍🏫Mentors
-
-Add names of your mentors with their emails and links to their GitHub accounts
-
 - [Adi Awaskar ](https://github.com/adiawaskar)
 - [Aarya Bodas ]()
 
