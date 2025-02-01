@@ -2,14 +2,17 @@ import React, { useState } from 'react';
 import FurnitureItem from './FurnitureItem';
 import { ClipLoader } from 'react-spinners';
 
-const FurnitureGrid = ({FurnitureLoading, setFurnitureSearch, products, items, handleCartItems, cartPrice, handleCartPrice }) => {
+const FurnitureGrid = ({SetFurnitureLoading, FurnitureLoading, setFurnitureSearch, products, items, handleCartItems, cartPrice, handleCartPrice }) => {
   const [searchQuery, setSearchQuery] = useState("");
 
   const handleSearch = async () => {
+
     if (!searchQuery) {
       alert("Please enter a search query");
       return;
     }
+
+    SetFurnitureLoading(true)
   
     try {
       const response = await fetch('http://localhost:5002/scrape', {
@@ -50,10 +53,21 @@ const FurnitureGrid = ({FurnitureLoading, setFurnitureSearch, products, items, h
       </div>
       {/* Show only the loading animation when FurnitureLoading is true */}
       {FurnitureLoading ? (
-        <div className="loading-container">
-          <ClipLoader color="#09f" size={50} />
-          <p>Fetching furniture, please wait...</p>
+        <div
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          height: "100vh", // Full viewport height (adjust if needed)
+          width: "100%", // Ensures full width
+        }}
+      >
+        <div style={{ textAlign: "center" }}>
+          <ClipLoader color="#8B4513" size={50} />
+          <p style={{ color: "#8B4513" }}>Fetching furniture, please wait...</p>
         </div>
+      </div>
+      
       ) : (
         <div className="row row-cols-1 row-cols-sm-2 g-4">
           {products.length > 0 ? (

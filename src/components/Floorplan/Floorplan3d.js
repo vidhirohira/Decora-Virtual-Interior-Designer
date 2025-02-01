@@ -462,10 +462,10 @@ const FloorPlan3D = () => {
           </div>
 
           <div className="furniture-grid">
-            {activeTab === "FURNITURE" && <FurnitureGrid FurnitureLoading={FurnitureLoading} setFurnitureSearch={SetFurnitureSearch} products={furnitureItems} items={cartItems} handleCartItems={handleCartItems} cartPrice={cartPrice} handleCartPrice={SetCartPrice} />}
+            {activeTab === "FURNITURE" && <FurnitureGrid SetFurnitureLoading={SetFurnitureLoading} FurnitureLoading={FurnitureLoading} setFurnitureSearch={SetFurnitureSearch} products={furnitureItems} items={cartItems} handleCartItems={handleCartItems} cartPrice={cartPrice} handleCartPrice={SetCartPrice} />}
             {activeTab === "MODELS" && (
               <ModelGrid
-                apiKey={process.env.REACT_APP_SKETCHFAB_API_KEY}
+                apiKey="9d2379512bd84812beb65f0ffe608310"
                 onModelSelect={setSelectedModel}
               />
             )}
