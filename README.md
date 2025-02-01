@@ -41,21 +41,17 @@
 ## 🤖Tech-Stack
 
 #### Front-end
-- HTML
-- CSS
 - JavaScript
 - React
 - Three.js
-- Two.js
-- conva.js
+- Konva.js
+- HTML
+- CSS
 
 #### Back-end
-- Flask
+- Flask (ML)
 - Python
   
-
-#### Machine Learning
-- ML
 
 ## 📈Progress
 -  2D to 3D Floor Plan Conversion
@@ -66,17 +62,13 @@
 -  Online Furniture Suggestions
   Get access to a variety of furniture options scraped from online sources.
   Compare styles, prices, and features before making a choice.
--  House Detail Form Filling
-  Input essential house details through a guided form to receive tailored design suggestions.
 -  Budget Estimation
-   Get an estimated budget for your house renovation or interior design based on your selected products and preferences.
+   Get an estimated budget for your house renovation or interior design based on your home and preferences.
 
 
 
 ## 🔮Future Scope
 - AI-Powered Design Suggestions – Implement machine learning to provide intelligent furniture placement and interior design recommendations based on user preferences and trends.
-- Augmented Reality (AR) Integration – Allow users to visualize furniture placements in real-time using AR for a more immersive experience.
-- Smart Home Integration – Enable compatibility with smart home devices to suggest and integrate IoT-based home automation solutions.
 - Expanded Furniture Database – Enhance the platform by scraping more furniture options from various online marketplaces.
 - Collaboration Feature – Allow multiple users to collaborate on a single interior design project, making it ideal for teams and professional designers.
 
