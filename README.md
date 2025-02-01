@@ -32,7 +32,7 @@
 
 ## 🔗Links
 
-- [GitHub Repository](https://github.com/vidhirohira/Virtual_Interior_Designer)
+- [GitHub Repository](https://github.com/chaitra-samant/Decora)
 - [Demo Video of Decora](https://drive.google.com/drive/folders/1-6YKqTX5RRUrAFTY-_hjR4_FCZ93Mawg?usp=drive_link)
 - [Screenshots of Decora](https://drive.google.com/drive/folders/1-7m2Abz8JKoboT-Y_hvocWGRv1XRkkHf)
 
@@ -79,18 +79,32 @@
 - Real Estate & Property Developers – Provide prospective buyers with a virtual interior setup for better property visualization.
 - Construction & Renovation Services – Assist contractors in planning and estimating renovation costs efficiently.
 
-## 🛠Project Setup
+## 🛠 Setting Up the Project Locally
 
-For the Web-App 1.Clone the GitHub repo.
+### 1. Clone the GitHub Repository
+Clone the repository to your local machine using the following command:
 ```bash
-git clone <https://github.com/vidhirohira/Virtual_Interior_Designer>
+git clone https://github.com/chaitra-samant/Decora
 ```
-2.Enter the client directory. Install all the required dependencies.
+
+### 2. Set Up API Keys
+Before running the project, you need to set up your API keys. Navigate to the `.env` file in the directory and add the following environment variables:
+```env
+REACT_APP_AUTH0_DOMAIN=YOUR_AUTH0_DOMAIN
+REACT_APP_AUTH0_CLIENT_ID=YOUR_AUTH0_CLIENT_ID
+REACT_APP_SKETCHFAB_API_KEY=YOUR_SKETCHFAB_API
+REACT_APP_SCRAPER_API_KEY=YOUR_SCRAPPER_API_KEY
+```
+Replace `YOUR_AUTH0_DOMAIN`, `YOUR_AUTH0_CLIENT_ID`, `YOUR_SKETCHFAB_API`, and `YOUR_SCRAPPER_API_KEY` with your actual API credentials.
+
+### 3. Install Dependencies and Start the Application
+Navigate to the client directory and install all required dependencies:
 ```bash
-  cd Virtual Interior Designer
-  npm install
-  npm start
+cd Virtual Interior Designer
+npm install
+npm start
 ```
+This will start the development server, and you can access the application in your browser.
 
 
 ## 👨‍💻Team Members
