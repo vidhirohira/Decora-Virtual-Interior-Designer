@@ -229,7 +229,8 @@
 .tool3d-button {
     position: absolute;
     bottom: 20px;
-    right: 645px;
+    left: 40px;
+    /* Aligning it with the left side of .layout-container */
     padding: 8px 16px;
     border: 1px solid #8B4513;
     border-radius: 10px;

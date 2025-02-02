@@ -76,7 +76,7 @@ def predict_budget():
         prediction = model.predict(input_df)
         print("Prediction:", prediction)
 
-        return jsonify({'estimatedBudget': np.ceil(float(prediction[0]*0.5))})
+        return jsonify({'estimatedBudget': np.ceil(float(prediction[0]*0.3))})
 
     except Exception as e:
         print("Error:", e)
